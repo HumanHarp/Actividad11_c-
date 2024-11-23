@@ -1,0 +1,4 @@
+Archivo: doc1.txt - Tiempo: 0.0501317 segundos
+Archivo: doc2.txt - Tiempo: 0.0500768 segundos
+Archivo: doc3.txt - Tiempo: 0.0500626 segundos
+Tiempo total: 0.150433 segundos

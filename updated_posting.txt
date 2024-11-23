@@ -1,0 +1,5 @@
+token1 10	84	1
+token2 5	87	1
+token3 20	78	1
+token4 8	16	1
+token5 15	94	1
